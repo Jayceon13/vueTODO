@@ -14,7 +14,7 @@ export default {
 .btn {
     align-self: flex-end;
     padding: 10px 15px;
-    background: none;
+    background: yellow;
     color: teal;
     border: 1px solid teal;
 }
