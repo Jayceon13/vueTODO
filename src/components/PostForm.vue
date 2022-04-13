@@ -49,6 +49,7 @@ export default {
     form {
     display: flex;
     flex-direction: column;
+    background: gold;
 }
 
 </style>
